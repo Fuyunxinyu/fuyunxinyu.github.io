@@ -1,0 +1,535 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "芸端之上",
+  "home_page_url": "https://valaxy.site/",
+  "feed_url": "https://valaxy.site/feed.json",
+  "description": "编辑博客还是太难了",
+  "icon": "https://media.githubusercontent.com/media/FuyunTechnology/FuyunTechnology.github.io/main/image/site/Avatar.png",
+  "favicon": "https://valaxy.site/favicon.svg",
+  "authors": [
+    {
+      "name": "仰望星空",
+      "url": "https://valaxy.site"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://valaxy.site/posts/blog/blog-creat",
+      "url": "https://valaxy.site/posts/blog/blog-creat",
+      "title": "关于个人搭建静态博客站点的经验与各种坑 （Valaxy篇）",
+      "content_html": "<p>[[toc]]</p>\n<h2>引子:</h2>\n<p>有些人可能会很好奇，站长站长，请问这个站点是你怎样搭建起来的呀？” 那么这篇文章对你可就大有帮助了，不用担心你会不会听懂，这你就尽管放心。 这篇文章主要</p>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/blog/blog-creat\" target=\"_blank\">https://valaxy.site/posts/blog/blog-creat</a> 阅读全文。</p>",
+      "date_published": "2025-07-11T07:35:01.199Z",
+      "date_modified": "2025-06-15T14:35:43.000Z",
+      "authors": [
+        {
+          "name": "仰望星空",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://valaxy.site/posts/poem/star",
+      "url": "https://valaxy.site/posts/poem/star",
+      "title": "星星",
+      "content_html": "<br/><p>访问 <a href=\"https://valaxy.site/posts/poem/star\" target=\"_blank\">https://valaxy.site/posts/poem/star</a> 阅读全文。</p>",
+      "date_published": "2025-07-08T12:54:37.347Z",
+      "date_modified": "2024-04-17T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "仰望星空",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://valaxy.site/posts/poem/waiting",
+      "url": "https://valaxy.site/posts/poem/waiting",
+      "title": "等",
+      "content_html": "<br/><p>访问 <a href=\"https://valaxy.site/posts/poem/waiting\" target=\"_blank\">https://valaxy.site/posts/poem/waiting</a> 阅读全文。</p>",
+      "date_published": "2025-07-08T12:54:37.347Z",
+      "date_modified": "2024-05-19T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "仰望星空",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://valaxy.site/posts/poem/Within",
+      "url": "https://valaxy.site/posts/poem/Within",
+      "title": "之中",
+      "content_html": "<br/><p>访问 <a href=\"https://valaxy.site/posts/poem/Within\" target=\"_blank\">https://valaxy.site/posts/poem/Within</a> 阅读全文。</p>",
+      "date_published": "2025-07-08T12:54:37.347Z",
+      "date_modified": "2025-04-17T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "仰望星空",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://valaxy.site/posts/poem/Why",
+      "url": "https://valaxy.site/posts/poem/Why",
+      "title": "为什么",
+      "content_html": "<br/><p>访问 <a href=\"https://valaxy.site/posts/poem/Why\" target=\"_blank\">https://valaxy.site/posts/poem/Why</a> 阅读全文。</p>",
+      "date_published": "2025-07-08T12:54:37.346Z",
+      "date_modified": "2024-04-08T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "仰望星空",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://valaxy.site/posts/poem/Wind",
+      "url": "https://valaxy.site/posts/poem/Wind",
+      "title": "风",
+      "content_html": "<br/><p>访问 <a href=\"https://valaxy.site/posts/poem/Wind\" target=\"_blank\">https://valaxy.site/posts/poem/Wind</a> 阅读全文。</p>",
+      "date_published": "2025-07-08T12:54:37.346Z",
+      "date_modified": "2025-02-10T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "仰望星空",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://valaxy.site/posts/poem/The weaving of spring scenery",
+      "url": "https://valaxy.site/posts/poem/The weaving of spring scenery",
+      "title": "春朝织",
+      "content_html": "<br/><p>访问 <a href=\"https://valaxy.site/posts/poem/The weaving of spring scenery\" target=\"_blank\">https://valaxy.site/posts/poem/The weaving of spring scenery</a> 阅读全文。</p>",
+      "date_published": "2025-07-08T12:54:37.345Z",
+      "date_modified": "2025-04-03T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "仰望星空",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://valaxy.site/posts/poem/Time above the firework",
+      "url": "https://valaxy.site/posts/poem/Time above the firework",
+      "title": "烟火上的时光",
+      "content_html": "<br/><p>访问 <a href=\"https://valaxy.site/posts/poem/Time above the firework\" target=\"_blank\">https://valaxy.site/posts/poem/Time above the firework</a> 阅读全文。</p>",
+      "date_published": "2025-07-08T12:54:37.345Z",
+      "date_modified": "2025-05-06T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "仰望星空",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://valaxy.site/posts/poem/Spring",
+      "url": "https://valaxy.site/posts/poem/Spring",
+      "title": "春",
+      "content_html": "<br/><p>访问 <a href=\"https://valaxy.site/posts/poem/Spring\" target=\"_blank\">https://valaxy.site/posts/poem/Spring</a> 阅读全文。</p>",
+      "date_published": "2025-07-08T12:54:37.344Z",
+      "date_modified": "2025-01-18T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "仰望星空",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://valaxy.site/posts/poem/The sand by the sea of time",
+      "url": "https://valaxy.site/posts/poem/The sand by the sea of time",
+      "title": "飞沙",
+      "content_html": "<br/><p>访问 <a href=\"https://valaxy.site/posts/poem/The sand by the sea of time\" target=\"_blank\">https://valaxy.site/posts/poem/The sand by the sea of time</a> 阅读全文。</p>",
+      "date_published": "2025-07-08T12:54:37.344Z",
+      "date_modified": "2025-03-02T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "仰望星空",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://valaxy.site/posts/poem/Remembering",
+      "url": "https://valaxy.site/posts/poem/Remembering",
+      "title": "记",
+      "content_html": "<br/><p>访问 <a href=\"https://valaxy.site/posts/poem/Remembering\" target=\"_blank\">https://valaxy.site/posts/poem/Remembering</a> 阅读全文。</p>",
+      "date_published": "2025-07-08T12:54:37.343Z",
+      "date_modified": "2024-11-11T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "仰望星空",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://valaxy.site/posts/poem/Rush time",
+      "url": "https://valaxy.site/posts/poem/Rush time",
+      "title": "匆匆",
+      "content_html": "<br/><p>访问 <a href=\"https://valaxy.site/posts/poem/Rush time\" target=\"_blank\">https://valaxy.site/posts/poem/Rush time</a> 阅读全文。</p>",
+      "date_published": "2025-07-08T12:54:37.343Z",
+      "date_modified": "2025-03-16T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "仰望星空",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://valaxy.site/posts/poem/Places of love staying",
+      "url": "https://valaxy.site/posts/poem/Places of love staying",
+      "title": "停留的地方",
+      "content_html": "<br/><p>访问 <a href=\"https://valaxy.site/posts/poem/Places of love staying\" target=\"_blank\">https://valaxy.site/posts/poem/Places of love staying</a> 阅读全文。</p>",
+      "date_published": "2025-07-08T12:54:37.342Z",
+      "date_modified": "2024-08-21T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "仰望星空",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://valaxy.site/posts/poem/Pond",
+      "url": "https://valaxy.site/posts/poem/Pond",
+      "title": "水塘",
+      "content_html": "<br/><p>访问 <a href=\"https://valaxy.site/posts/poem/Pond\" target=\"_blank\">https://valaxy.site/posts/poem/Pond</a> 阅读全文。</p>",
+      "date_published": "2025-07-08T12:54:37.342Z",
+      "date_modified": "2024-08-11T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "仰望星空",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://valaxy.site/posts/poem/Not that time",
+      "url": "https://valaxy.site/posts/poem/Not that time",
+      "title": "不再",
+      "content_html": "<br/><p>访问 <a href=\"https://valaxy.site/posts/poem/Not that time\" target=\"_blank\">https://valaxy.site/posts/poem/Not that time</a> 阅读全文。</p>",
+      "date_published": "2025-07-08T12:54:37.341Z",
+      "date_modified": "2024-06-23T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "仰望星空",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://valaxy.site/posts/poem/Passed by",
+      "url": "https://valaxy.site/posts/poem/Passed by",
+      "title": "错过",
+      "content_html": "<br/><p>访问 <a href=\"https://valaxy.site/posts/poem/Passed by\" target=\"_blank\">https://valaxy.site/posts/poem/Passed by</a> 阅读全文。</p>",
+      "date_published": "2025-07-08T12:54:37.341Z",
+      "date_modified": "2025-04-17T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "仰望星空",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://valaxy.site/posts/poem/Mother`s love always",
+      "url": "https://valaxy.site/posts/poem/Mother`s love always",
+      "title": "避风港的灯火",
+      "content_html": "<br/><p>访问 <a href=\"https://valaxy.site/posts/poem/Mother`s love always\" target=\"_blank\">https://valaxy.site/posts/poem/Mother`s love always</a> 阅读全文。</p>",
+      "date_published": "2025-07-08T12:54:37.340Z",
+      "date_modified": "2024-08-14T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "仰望星空",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://valaxy.site/posts/poem/Memory",
+      "url": "https://valaxy.site/posts/poem/Memory",
+      "title": "回忆",
+      "content_html": "<br/><p>访问 <a href=\"https://valaxy.site/posts/poem/Memory\" target=\"_blank\">https://valaxy.site/posts/poem/Memory</a> 阅读全文。</p>",
+      "date_published": "2025-07-08T12:54:37.337Z",
+      "date_modified": "2024-05-06T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "仰望星空",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://valaxy.site/posts/poem/Lyrics/Collapsing world",
+      "url": "https://valaxy.site/posts/poem/Lyrics/Collapsing world",
+      "title": "崩坠",
+      "content_html": "<br/><p>访问 <a href=\"https://valaxy.site/posts/poem/Lyrics/Collapsing world\" target=\"_blank\">https://valaxy.site/posts/poem/Lyrics/Collapsing world</a> 阅读全文。</p>",
+      "date_published": "2025-07-08T12:54:37.334Z",
+      "date_modified": "2025-03-30T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "仰望星空",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://valaxy.site/posts/poem/Lyrics/Daylight",
+      "url": "https://valaxy.site/posts/poem/Lyrics/Daylight",
+      "title": "黎明",
+      "content_html": "<br/><p>访问 <a href=\"https://valaxy.site/posts/poem/Lyrics/Daylight\" target=\"_blank\">https://valaxy.site/posts/poem/Lyrics/Daylight</a> 阅读全文。</p>",
+      "date_published": "2025-07-08T12:54:37.334Z",
+      "date_modified": "2025-03-20T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "仰望星空",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://valaxy.site/posts/poem/Lovely clouds",
+      "url": "https://valaxy.site/posts/poem/Lovely clouds",
+      "title": "云",
+      "content_html": "<br/><p>访问 <a href=\"https://valaxy.site/posts/poem/Lovely clouds\" target=\"_blank\">https://valaxy.site/posts/poem/Lovely clouds</a> 阅读全文。</p>",
+      "date_published": "2025-07-08T12:54:37.332Z",
+      "date_modified": "2024-10-12T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "仰望星空",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://valaxy.site/posts/poem/Look ahead",
+      "url": "https://valaxy.site/posts/poem/Look ahead",
+      "title": "前瞻",
+      "content_html": "<br/><p>访问 <a href=\"https://valaxy.site/posts/poem/Look ahead\" target=\"_blank\">https://valaxy.site/posts/poem/Look ahead</a> 阅读全文。</p>",
+      "date_published": "2025-07-08T12:54:37.331Z",
+      "date_modified": "2024-12-07T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "仰望星空",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://valaxy.site/posts/poem/Lost",
+      "url": "https://valaxy.site/posts/poem/Lost",
+      "title": "丢",
+      "content_html": "<br/><p>访问 <a href=\"https://valaxy.site/posts/poem/Lost\" target=\"_blank\">https://valaxy.site/posts/poem/Lost</a> 阅读全文。</p>",
+      "date_published": "2025-07-08T12:54:37.331Z",
+      "date_modified": "2024-06-15T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "仰望星空",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://valaxy.site/posts/poem/Leisurely village",
+      "url": "https://valaxy.site/posts/poem/Leisurely village",
+      "title": "小村",
+      "content_html": "<br/><p>访问 <a href=\"https://valaxy.site/posts/poem/Leisurely village\" target=\"_blank\">https://valaxy.site/posts/poem/Leisurely village</a> 阅读全文。</p>",
+      "date_published": "2025-07-08T12:54:37.330Z",
+      "date_modified": "2024-09-19T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "仰望星空",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://valaxy.site/posts/poem/For mother",
+      "url": "https://valaxy.site/posts/poem/For mother",
+      "title": "海岸",
+      "content_html": "<br/><p>访问 <a href=\"https://valaxy.site/posts/poem/For mother\" target=\"_blank\">https://valaxy.site/posts/poem/For mother</a> 阅读全文。</p>",
+      "date_published": "2025-07-08T12:54:37.329Z",
+      "date_modified": "2025-05-11T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "仰望星空",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://valaxy.site/posts/poem/Home town",
+      "url": "https://valaxy.site/posts/poem/Home town",
+      "title": "故乡",
+      "content_html": "<br/><p>访问 <a href=\"https://valaxy.site/posts/poem/Home town\" target=\"_blank\">https://valaxy.site/posts/poem/Home town</a> 阅读全文。</p>",
+      "date_published": "2025-07-08T12:54:37.329Z",
+      "date_modified": "2024-09-03T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "仰望星空",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://valaxy.site/posts/poem/Foiling and wishing",
+      "url": "https://valaxy.site/posts/poem/Foiling and wishing",
+      "title": "秋风与星星",
+      "content_html": "<br/><p>访问 <a href=\"https://valaxy.site/posts/poem/Foiling and wishing\" target=\"_blank\">https://valaxy.site/posts/poem/Foiling and wishing</a> 阅读全文。</p>",
+      "date_published": "2025-07-08T12:54:37.327Z",
+      "date_modified": "2024-12-12T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "仰望星空",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://valaxy.site/posts/poem/Fading clouds",
+      "url": "https://valaxy.site/posts/poem/Fading clouds",
+      "title": "云彩流逝",
+      "content_html": "<br/><p>访问 <a href=\"https://valaxy.site/posts/poem/Fading clouds\" target=\"_blank\">https://valaxy.site/posts/poem/Fading clouds</a> 阅读全文。</p>",
+      "date_published": "2025-07-08T12:54:37.322Z",
+      "date_modified": "2024-05-29T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "仰望星空",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://valaxy.site/posts/poem/Distance",
+      "url": "https://valaxy.site/posts/poem/Distance",
+      "title": "远方",
+      "content_html": "<br/><p>访问 <a href=\"https://valaxy.site/posts/poem/Distance\" target=\"_blank\">https://valaxy.site/posts/poem/Distance</a> 阅读全文。</p>",
+      "date_published": "2025-07-08T12:54:37.320Z",
+      "date_modified": "2024-04-03T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "仰望星空",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://valaxy.site/posts/poem/Cloud boat by the  time",
+      "url": "https://valaxy.site/posts/poem/Cloud boat by the  time",
+      "title": "云舟",
+      "content_html": "<br/><p>访问 <a href=\"https://valaxy.site/posts/poem/Cloud boat by the  time\" target=\"_blank\">https://valaxy.site/posts/poem/Cloud boat by the  time</a> 阅读全文。</p>",
+      "date_published": "2025-07-08T12:54:37.317Z",
+      "date_modified": "2025-04-28T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "仰望星空",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://valaxy.site/posts/poem/Batter/Reminding deeply",
+      "url": "https://valaxy.site/posts/poem/Batter/Reminding deeply",
+      "title": "迷思",
+      "content_html": "<p>你在沉思</p>\n<p>你的思想</p>\n<p>也在时间的洪流中</p>\n<p>停滞</p>\n<hr>\n<p>你在细数流逝</p>\n<p>是谁离去</p>\n<p>谁又开始</p>\n<hr>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/poem/Batter/Reminding deeply\" target=\"_blank\">https://valaxy.site/posts/poem/Batter/Reminding deeply</a> 阅读全文。</p>",
+      "date_published": "2025-07-08T12:54:37.316Z",
+      "date_modified": "2025-06-16T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "仰望星空",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://valaxy.site/posts/poem/Batter/Starlight flowing pointer",
+      "url": "https://valaxy.site/posts/poem/Batter/Starlight flowing pointer",
+      "title": "星钟",
+      "content_html": "<br/><p>访问 <a href=\"https://valaxy.site/posts/poem/Batter/Starlight flowing pointer\" target=\"_blank\">https://valaxy.site/posts/poem/Batter/Starlight flowing pointer</a> 阅读全文。</p>",
+      "date_published": "2025-07-08T12:54:37.316Z",
+      "date_modified": "2024-12-27T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "仰望星空",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://valaxy.site/posts/poem/Alone the clouds",
+      "url": "https://valaxy.site/posts/poem/Alone the clouds",
+      "title": "云睹",
+      "content_html": "<br/><p>访问 <a href=\"https://valaxy.site/posts/poem/Alone the clouds\" target=\"_blank\">https://valaxy.site/posts/poem/Alone the clouds</a> 阅读全文。</p>",
+      "date_published": "2025-07-08T12:54:37.315Z",
+      "date_modified": "2024-10-19T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "仰望星空",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://valaxy.site/posts/poem/Batter/Memories and thought",
+      "url": "https://valaxy.site/posts/poem/Batter/Memories and thought",
+      "title": "小径和蒲公英",
+      "content_html": "<br/><p>访问 <a href=\"https://valaxy.site/posts/poem/Batter/Memories and thought\" target=\"_blank\">https://valaxy.site/posts/poem/Batter/Memories and thought</a> 阅读全文。</p>",
+      "date_published": "2025-07-08T12:54:37.315Z",
+      "date_modified": "2024-06-07T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "仰望星空",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://valaxy.site/posts/blog/Template",
+      "url": "https://valaxy.site/posts/blog/Template",
+      "title": "关于博客文章里的一部分常用配置",
+      "content_html": "<h2>引子:</h2>\n<p>在<u>完成博客网站的搭建和部署</u>之后,当然是在里面<strong>发布文章</strong>啦,那么在Valaxy里面有什么文章配置设置吗?答案是有的.当然,在使用时,我们要万分注意一些使用要点</p>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/blog/Template\" target=\"_blank\">https://valaxy.site/posts/blog/Template</a> 阅读全文。</p>",
+      "date_published": "2025-07-08T12:54:37.312Z",
+      "date_modified": "2025-06-29T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "仰望星空",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://valaxy.site/posts/article/Files of ClaasIsland",
+      "url": "https://valaxy.site/posts/article/Files of ClaasIsland",
+      "title": "关于ClassIsland的使用教程",
+      "content_html": "<p>::: tip</p>\n<blockquote>\n<p>本Markdown文档支持超链接跳转，按Ctrl＋点击下滑蓝线均可直接跳转，包括软件界面</p>\n</blockquote>\n<p>:::</p>\n<h2><strong>准备材料</strong></h2>\n<ol>\n<li>一台Win7及以上的W</li>\n</ol>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/article/Files of ClaasIsland\" target=\"_blank\">https://valaxy.site/posts/article/Files of ClaasIsland</a> 阅读全文。</p>",
+      "date_published": "2025-07-08T12:54:37.311Z",
+      "date_modified": "2025-01-25T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "仰望星空",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://valaxy.site/posts/article/Application",
+      "url": "https://valaxy.site/posts/article/Application",
+      "title": "关于个人收集的软件",
+      "content_html": "<h2>PC软件</h2>\n<h3>第三方软件:</h3>\n<p>B站的好用第三方客户端，众所周知，B站客户端做得很烂，所以才会有这样的软件</p>\n<h6><em><strong>Bilicopilot:</strong></em></h6>\n<p>作为第</p>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/article/Application\" target=\"_blank\">https://valaxy.site/posts/article/Application</a> 阅读全文。</p>",
+      "date_published": "2025-07-08T10:44:20.206Z",
+      "date_modified": "2025-07-08T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "仰望星空",
+          "url": "https://valaxy.site"
+        }
+      ]
+    }
+  ]
+}
