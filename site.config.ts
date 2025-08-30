@@ -24,7 +24,7 @@ export default defineSiteConfig({
       message: '我有一计!'  //鼠标悬停时显示的文字
   }
   },
-  favicon: 'https://cdn.jsdelivr.net/gh/Fuyunxinyu/fuyunxinyu.github.io/image/site/Site%20Icon.jpg',  //站点图标
+  favicon: 'https://media.githubusercontent.com/media/Fuyunxinyu/fuyunxinyu.github.io/main/image/site/Site%20Icon.png',  //站点图标
   social: [
    /**
      * 按以下格式添加社媒方式,排除"*"和"/"(他们起注释作用)
