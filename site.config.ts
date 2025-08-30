@@ -39,7 +39,7 @@ export default defineSiteConfig({
     {
       name: 'RSS',
       link: '/atom.xml',
-      icon: 'i-line-md-rss',
+      icon: 'i-ri-rss-fill',
       color: 'orange',
     },
     {
@@ -51,7 +51,7 @@ export default defineSiteConfig({
     {
       name: 'GitHub',
       link: 'https://github.com/FuyunTechnology',
-      icon: 'i-line-md-github',
+      icon: 'i-ri-github-fill',
       color: '#6e5494',
     },
     {
