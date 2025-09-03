@@ -12,10 +12,11 @@ const safelist = [
  */
 export default defineValaxyConfig<UserThemeConfig>({
   // site config see site.config.ts
+  // 主题名字
+  theme: 'yun',  
 
-  theme: 'yun',  //主题名字
-
-  themeConfig: {  //主题配置,在这里修改
+  //主题配置,在这里修改
+  themeConfig: {  
     banner: {
       enable: true,
       title: '星海坠入云端',   //在这里填写你的站点名字
@@ -23,13 +24,15 @@ export default defineValaxyConfig<UserThemeConfig>({
 
         bg_image: {  //网站的背景图片,粘贴链接
       enable: true,  //是否启用背景图片
-      url: 'https://cdn.jsdelivr.net/gh/Fuyunxiyu/fuyunxinyu.github.io/image/site/White-background.jpg',  //亮色模式背景图片
-      dark: 'https://cdn.jsdelivr.net/gh/Fuyunxinyu/fuyunxinyu.github.io/image/site/Black-background.jpg',  //暗色模式背景图片
+      //亮色模式背景图片
+      url: 'https://cdn.jsdelivr.net/gh/Fuyunxiyu/fuyunxinyu.github.io/image/site/White-background.jpg',  
+      //暗色模式背景图片
+      dark: 'https://cdn.jsdelivr.net/gh/Fuyunxinyu/fuyunxinyu.github.io/image/site/Black-background.jpg',  
       opacity: 0.7
     },
 
     pages: [  //在这里添加你的界面
-      //仿照以下格式添加,排除"*"和"/"(他们起注释作用)
+      //仿照以下格式添加,排除"*"和开头的"/"(他们起注释作用)
       /*{
        *name: '页面名字',
        *url: '/页面链接/',
@@ -63,8 +66,9 @@ export default defineValaxyConfig<UserThemeConfig>({
       },
     ],
 
+    //网站的主题色,推荐使用16进制代码
      colors: {
-      primary: '#4B9BE1'  //网站的主题色,用16进制代码
+      primary: '#4B9BE1'  
     },
 
   footer: {  //脚注
