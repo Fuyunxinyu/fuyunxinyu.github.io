@@ -12,12 +12,12 @@
     "serve": "vite preview"
   },
   "dependencies": {
-    "valaxy": "0.26.3",
+    "valaxy": "0.26.6",
     "valaxy-addon-components": "^0.1.0",
     "valaxy-addon-lightgallery": "^0.0.4",
-    "valaxy-addon-vercount": "^0.0.6",
+    "valaxy-addon-vercount": "^0.0.7",
     "valaxy-addon-waline": "^0.2.1",
-    "valaxy-theme-yun": "0.26.3"
+    "valaxy-theme-yun": "0.26.6"
   },
   "devDependencies": {
     "@iconify-json/line-md": "^1.2.11",

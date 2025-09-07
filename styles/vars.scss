@@ -20,7 +20,7 @@
   --va-font-serif:  'LXGWWenKai woff2',STKaiti,STZhongsong,'Noto Serif SC',  KaiTi, Roboto,  serif;
   --va-font-sans: 'LXGWWenKai woff2',"Segoe UI",Inter, -apple-system, BlinkMacSystemFont,  Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
   --va-font-mono: 'LXGWWenKai woff2',"Courier New",Menlo, Monaco, Consolas,  monospace;
-  --va-font-Yun-family: 'LXGWWenKai woff2',"Courier New",Menlo, Monaco, Consolas,  monospace;
+  --smc-font-sans: 'LXGWWenKai woff2',"Courier New",Menlo, Monaco, Consolas,  monospace;
   
 }
 
@@ -51,4 +51,7 @@ html.dark{
 }
 .char-right {
     border-left:0px solid rgba(148, 229, 240, 0.546)
+}
+.markdown-body {
+  --smc-font-sans: 'LXGWWenKai woff2',"Courier New",Menlo, Monaco, Consolas,  monospace;
 }
