@@ -26,7 +26,7 @@ export default defineValaxyConfig<UserThemeConfig>({
         bg_image: {  //网站的背景图片,粘贴链接
       enable: true,  //是否启用背景图片
       //亮色模式背景图片
-      url: 'https://raw.githubusercontent.com/Fuyunxinyu/fuyunxinyu.github.io/main/image/site/White-background.jpg',  
+      url: 'https://raw.githubusercontent.com/Fuyunxinyu/fuyunxinyu.github.io/main/image/site/画师JW：天空魔法78868588.jpg',  
       //暗色模式背景图片
       dark: 'https://cdn.jsdelivr.net/gh/Fuyunxinyu/fuyunxinyu.github.io/image/site/Black-background.jpg',  
       opacity: 0.7
@@ -45,7 +45,7 @@ export default defineValaxyConfig<UserThemeConfig>({
         name: '我的小伙伴们',
         url: '/links/',
         icon: 'i-line-md-emoji-smile-wink',
-        color: 'dodgerblue',
+        color: '#7cc2fff0',
       },
       {
         name: '喜欢的艺术家',
@@ -67,7 +67,7 @@ export default defineValaxyConfig<UserThemeConfig>({
       },
       {
       name: '文档',
-      url: 'https://fuyuntechnology.github.io',
+      url: 'https://fuyun-doc.netlify.app/',
       icon: 'i-ri-book-3-fill',
       color: '#92d1f6ff',
       },
