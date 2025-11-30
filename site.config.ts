@@ -1,7 +1,7 @@
 import { defineSiteConfig } from 'valaxy'
 
 export default defineSiteConfig({
-  url: 'https://valaxy.site/',
+  url: 'https://fuyunxinyu.github.io/',
   
   lang: 'zh-CN',  //默认语言
   title: '芸端之上',  //站点名字
