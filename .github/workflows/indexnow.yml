@@ -2,8 +2,9 @@ name: "IndexNow"
 on:
   push:
     branches:
-    	# when git push to the master branch
-      - master
+
+      # when git push to the main branch
+      - main
   schedule:
     # scheduled in UTC.
     - cron:  '0 0,12 * * *'
@@ -18,7 +19,7 @@ jobs:
           sitemap-location: "https://fuyunxinyu.github.io/atom.xml"  # 修改为你自己的
           endpoint: "www.bing.com"
           since: 1
-          # minite, hour, day, week, month, year
+          # minute, hour, day, week, month, year
           since-unit: "day"
           limit: 100
           key: ${{ secrets.INDEXNOW_KEY }}
