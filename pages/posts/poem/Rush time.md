@@ -18,7 +18,7 @@ categories:
 
 tags:
   - 现代诗
-draft: ture
+
 ---
 风儿轻轻摇曳
 
