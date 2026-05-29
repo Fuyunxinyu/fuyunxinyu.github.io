@@ -18,7 +18,6 @@ categories:
 
 tags:
   - 现代诗
-draft: ture
 ---
 
 星光在昼夜中更替
