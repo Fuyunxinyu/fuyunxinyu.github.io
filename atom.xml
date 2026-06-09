@@ -1,0 +1,912 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://fuyunxinyu.github.io/</id>
+    <title>芸端之上</title>
+    <updated>2026-06-09T09:45:23.399Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <author>
+        <name>浮芸星语空悠悠</name>
+        <email>i@valaxy.site</email>
+        <uri>https://valaxy.site</uri>
+    </author>
+    <link rel="alternate" href="https://fuyunxinyu.github.io/"/>
+    <link rel="self" href="https://fuyunxinyu.github.io/atom.xml"/>
+    <subtitle>编辑博客还是太难了</subtitle>
+    <logo>https://cdn.jsdelivr.net/gh/Fuyunxinyu/fuyunxinyu.github.io/image/site/Avatar.jpg</logo>
+    <icon>https://fuyunxinyu.github.io/favicon.svg</icon>
+    <rights>CC BY-NC-SA 4.0 2026 © 浮芸星语空悠悠</rights>
+    <entry>
+        <title type="html"><![CDATA[晚归]]></title>
+        <id>https://fuyunxinyu.github.io/posts/poem/Later back</id>
+        <link href="https://fuyunxinyu.github.io/posts/poem/Later back"/>
+        <updated>2025-11-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>暮日悬徊  游影忘归</p>
+<p>她轻轻掸平衣角</p>
+<p>抖落一地余晖</p>
+<hr>
+<p>流云沦醉  林涛荡辉</p>
+<p>远山朦影</p>
+<p>烟晓何处啼惊帷</p>
+<hr>
+<p>风聆吟敲推</p>
+<p>捎带着玄叶  跟随</p>
+<p>青帘掩映着</p>
+<p>透过依稀  重影微</p>
+<br/><p>访问 <a href="https://fuyunxinyu.github.io/posts/poem/Later back" target="_blank">https://fuyunxinyu.github.io/posts/poem/Later back</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>浮芸星语空悠悠</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-11-29T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[失眠]]></title>
+        <id>https://fuyunxinyu.github.io/posts/poem/Bad sleep</id>
+        <link href="https://fuyunxinyu.github.io/posts/poem/Bad sleep"/>
+        <updated>2025-10-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>灯忽骤着在变换</p>
+<p>时间也在其间横穿</p>
+<p>月亮的影子游曳在墙上</p>
+<p>星星也就着浮云作伴</p>
+<hr>
+<p>半个爬上窗台的月光</p>
+<p>好奇地摆弄着桌上的玻璃盏</p>
+<p>树梢间也摇来晓风弯弯</p>
+<p>猫儿伸了伸身子</p>
+<p>眼睛绕着月亮</p>
+<br/><p>访问 <a href="https://fuyunxinyu.github.io/posts/poem/Bad sleep" target="_blank">https://fuyunxinyu.github.io/posts/poem/Bad sleep</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>浮芸星语空悠悠</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-10-19T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[窗棂]]></title>
+        <id>https://fuyunxinyu.github.io/posts/poem/The window</id>
+        <link href="https://fuyunxinyu.github.io/posts/poem/The window"/>
+        <updated>2025-09-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>暮光游过我的窗棂</p>
+<p>悄然带来深空的回音</p>
+<p>是夜无声寂静</p>
+<p>只有风还在我的耳边轻声低鸣</p>
+<p>那游离零乱的星星</p>
+<p>是否已带走了你的只单形影</p>
+<p>是否我们已在共赏今夜月明</p>
+<p>云拂月畔  你是否也在等待我的聆听？</p>
+<br/><p>访问 <a href="https://fuyunxinyu.github.io/posts/poem/The window" target="_blank">https://fuyunxinyu.github.io/posts/poem/The window</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>浮芸星语空悠悠</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-09-13T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于博客文章里的一部分常用配置]]></title>
+        <id>https://fuyunxinyu.github.io/posts/blog/Template</id>
+        <link href="https://fuyunxinyu.github.io/posts/blog/Template"/>
+        <updated>2025-06-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>引子:</h2>
+<p>在<u>完成博客网站的搭建和部署</u>之后,当然是在里面<strong>发布文章</strong>啦,那么在Valaxy里面有什么文章配置设置吗?答案是有的.当然,在使用时,我们要万分注意一些使用要点,不然</p>
+<br/><p>访问 <a href="https://fuyunxinyu.github.io/posts/blog/Template" target="_blank">https://fuyunxinyu.github.io/posts/blog/Template</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>浮芸星语空悠悠</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-06-29T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[迷思]]></title>
+        <id>https://fuyunxinyu.github.io/posts/poem/Batter/Reminding deeply</id>
+        <link href="https://fuyunxinyu.github.io/posts/poem/Batter/Reminding deeply"/>
+        <updated>2025-06-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>你在沉思</p>
+<p>你的思想</p>
+<p>也在时间的洪流中</p>
+<p>停滞</p>
+<hr>
+<p>你在细数流逝</p>
+<p>是谁离去</p>
+<p>谁又开始</p>
+<hr>
+<p>你在思想中度日</p>
+<p>春来秋至</p>
+<p>茶饭不</p>
+<br/><p>访问 <a href="https://fuyunxinyu.github.io/posts/poem/Batter/Reminding deeply" target="_blank">https://fuyunxinyu.github.io/posts/poem/Batter/Reminding deeply</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>浮芸星语空悠悠</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-06-16T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于个人搭建静态博客站点的经验与各种坑 （Valaxy篇）]]></title>
+        <id>https://fuyunxinyu.github.io/posts/blog/blog-creat</id>
+        <link href="https://fuyunxinyu.github.io/posts/blog/blog-creat"/>
+        <updated>2025-06-15T14:35:43.000Z</updated>
+        <content type="html"><![CDATA[<h2>引子:</h2>
+<p>有些人可能会很好奇，站长站长，请问这个站点是你怎样搭建起来的呀？” 那么这篇文章对你可就大有帮助了，不用担心你会不会听懂，这你就尽管放心。 这篇文章主要是面向小白的（真的，零编程基</p>
+<br/><p>访问 <a href="https://fuyunxinyu.github.io/posts/blog/blog-creat" target="_blank">https://fuyunxinyu.github.io/posts/blog/blog-creat</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>浮芸星语空悠悠</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-06-15T14:35:43.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[海岸]]></title>
+        <id>https://fuyunxinyu.github.io/posts/poem/For mother</id>
+        <link href="https://fuyunxinyu.github.io/posts/poem/For mother"/>
+        <updated>2025-05-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>扬起一片孤帆</p>
+<p>让未来与波涛轮转</p>
+<p>海风微微流散</p>
+<p>海面与澄蓝</p>
+<p>也轻轻一起把手挽</p>
+<hr>
+<p>孤帆行船日月流转</p>
+<p>多么空阔这星汉灿烂</p>
+<p>多么清爽这海风舒软</p>
+<p>船已不知何时离岸</p>
+<p>心却扯着海岸线</p>
+<br/><p>访问 <a href="https://fuyunxinyu.github.io/posts/poem/For mother" target="_blank">https://fuyunxinyu.github.io/posts/poem/For mother</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>浮芸星语空悠悠</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-05-11T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[烟火上的时光]]></title>
+        <id>https://fuyunxinyu.github.io/posts/poem/Time above the firework</id>
+        <link href="https://fuyunxinyu.github.io/posts/poem/Time above the firework"/>
+        <updated>2025-05-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>小窗  灯黄</p>
+<p>一抹新月抚过山岗</p>
+<p>静树无言  云疏晚妆</p>
+<p>纤纤风中流云飘荡</p>
+<hr>
+<p>天野苍苍  风径茫茫</p>
+<p>璨然烟火</p>
+<p>也燃不尽寥寥两行</p>
+<p>漫天倾乱如霜降</p>
+<p>眼见的却只</p>
+<p>散落一地余光</p>
+<p>--</p>
+<br/><p>访问 <a href="https://fuyunxinyu.github.io/posts/poem/Time above the firework" target="_blank">https://fuyunxinyu.github.io/posts/poem/Time above the firework</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>浮芸星语空悠悠</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-05-06T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[云舟]]></title>
+        <id>https://fuyunxinyu.github.io/posts/poem/Cloud boat by the  time</id>
+        <link href="https://fuyunxinyu.github.io/posts/poem/Cloud boat by the  time"/>
+        <updated>2025-04-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>悠悠云啾啾</p>
+<p>水波空望丘</p>
+<p>淡卷风追云吹去</p>
+<p>翠坠光垂水轻酬</p>
+<hr>
+<p>依依  是薄云依旧</p>
+<p>青青  是翠衫满楼</p>
+<p>晓风呼骤</p>
+<p>云掩帘头</p>
+<hr>
+<p>悠扬的云廊之上</p>
+<p>几里点淡蓝的洋流</p>
+<p>随时光游</p>
+<br/><p>访问 <a href="https://fuyunxinyu.github.io/posts/poem/Cloud boat by the  time" target="_blank">https://fuyunxinyu.github.io/posts/poem/Cloud boat by the  time</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>浮芸星语空悠悠</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-04-28T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[错过]]></title>
+        <id>https://fuyunxinyu.github.io/posts/poem/Passed by</id>
+        <link href="https://fuyunxinyu.github.io/posts/poem/Passed by"/>
+        <updated>2025-04-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>逝去的总是很多很多</p>
+<p>瀚瀚如车流穿过</p>
+<p>留下杳杳无若</p>
+<p>微忆星火</p>
+<hr>
+<p>时弦轻着</p>
+<p>微叹境迁时过</p>
+<p>隐隐不见余光吹落</p>
+<p>无心地扔掉很多很多</p>
+<hr>
+<p>走在漫漫长路上</p>
+<p>所见皆往匆匆流过</p>
+<p>无</p>
+<br/><p>访问 <a href="https://fuyunxinyu.github.io/posts/poem/Passed by" target="_blank">https://fuyunxinyu.github.io/posts/poem/Passed by</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>浮芸星语空悠悠</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-04-17T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[之中]]></title>
+        <id>https://fuyunxinyu.github.io/posts/poem/Within</id>
+        <link href="https://fuyunxinyu.github.io/posts/poem/Within"/>
+        <updated>2025-04-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>青青山色雾轻拢</p>
+<p>悠悠彩云影相重</p>
+<hr>
+<p>好渴望这样的世界啊</p>
+<p>没有忙忙匆匆</p>
+<p>心事重重</p>
+<p>旧事种种</p>
+<hr>
+<p>往事都像游絮一样</p>
+<p>离散在空中</p>
+<p>微风的指尖</p>
+<p>稍带点初春的懵懂</p>
+<hr>
+<p>飞</p>
+<br/><p>访问 <a href="https://fuyunxinyu.github.io/posts/poem/Within" target="_blank">https://fuyunxinyu.github.io/posts/poem/Within</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>浮芸星语空悠悠</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-04-17T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[春朝织]]></title>
+        <id>https://fuyunxinyu.github.io/posts/poem/The weaving of spring scenery</id>
+        <link href="https://fuyunxinyu.github.io/posts/poem/The weaving of spring scenery"/>
+        <updated>2025-04-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>淡彩苍织</p>
+<p>霓虹空蚀</p>
+<p>一丛一丛的错枝</p>
+<p>一叶一叶的舟矢</p>
+<p>都在相互望着无时</p>
+<hr>
+<p>地上—</p>
+<p>风弦无心拨栀</p>
+<p>彩绸挂满虬枝</p>
+<p>淡且盛且鲜妍</p>
+<p>浓且羞且微显</p>
+<p>馨香散湿</p>
+<p>流风遍执</p>
+<hr>
+<p>天</p>
+<br/><p>访问 <a href="https://fuyunxinyu.github.io/posts/poem/The weaving of spring scenery" target="_blank">https://fuyunxinyu.github.io/posts/poem/The weaving of spring scenery</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>浮芸星语空悠悠</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-04-03T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[匆匆]]></title>
+        <id>https://fuyunxinyu.github.io/posts/poem/Rush time</id>
+        <link href="https://fuyunxinyu.github.io/posts/poem/Rush time"/>
+        <updated>2025-03-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>风儿轻轻摇曳</p>
+<p>惊蝉落叶流泻</p>
+<p>携来远方  携来花叶</p>
+<p>带着远方的思绪</p>
+<p>在这里书写</p>
+<hr>
+<p>晓看浮云飘别</p>
+<p>送走雨丝棉叶</p>
+<p>灯也倾斜  雨也微斜</p>
+<p>只在此</p>
+<p>匆匆留下</p>
+<p>未写完的诗篇</p>
+<br/><p>访问 <a href="https://fuyunxinyu.github.io/posts/poem/Rush time" target="_blank">https://fuyunxinyu.github.io/posts/poem/Rush time</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>浮芸星语空悠悠</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-03-16T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[飞沙]]></title>
+        <id>https://fuyunxinyu.github.io/posts/poem/The sand by the sea of time</id>
+        <link href="https://fuyunxinyu.github.io/posts/poem/The sand by the sea of time"/>
+        <updated>2025-03-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>晓风  流荧  云纱</p>
+<p>幽芳  青竹  飞花</p>
+<p>眼望这满世界的过客啊</p>
+<p>无人停下</p>
+<hr>
+<p>春发  蝉夏</p>
+<p>秋月  冬花</p>
+<p>记住了什么</p>
+<p>却总也不知该如何回答</p>
+<hr>
+<p>星海漫卷</p>
+<p>日月更行</p>
+<br/><p>访问 <a href="https://fuyunxinyu.github.io/posts/poem/The sand by the sea of time" target="_blank">https://fuyunxinyu.github.io/posts/poem/The sand by the sea of time</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>浮芸星语空悠悠</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-03-02T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[风]]></title>
+        <id>https://fuyunxinyu.github.io/posts/poem/Wind</id>
+        <link href="https://fuyunxinyu.github.io/posts/poem/Wind"/>
+        <updated>2025-02-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>你像波浪一样</p>
+<p>轻轻飘来</p>
+<p>挑逗枝丫间的绿漾</p>
+<p>悄悄摘下几片花瓣</p>
+<p>在平广的旷野上</p>
+<p>带走三分</p>
+<p>淡淡的清香</p>
+<hr>
+<p>越过浓郁的青山</p>
+<p>是雪白的故乡</p>
+<p>偶尔从不知名的远方</p>
+<p>传来你的回响</p>
+<p>我的</p>
+<br/><p>访问 <a href="https://fuyunxinyu.github.io/posts/poem/Wind" target="_blank">https://fuyunxinyu.github.io/posts/poem/Wind</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>浮芸星语空悠悠</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-02-10T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于ClassIsland的使用教程]]></title>
+        <id>https://fuyunxinyu.github.io/posts/article/Files of ClaasIsland</id>
+        <link href="https://fuyunxinyu.github.io/posts/article/Files of ClaasIsland"/>
+        <updated>2025-01-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>::: tip</p>
+<blockquote>
+<p>本Markdown文档支持超链接跳转，按Ctrl＋点击下滑蓝线均可直接跳转，包括软件界面</p>
+</blockquote>
+<p>:::</p>
+<h2><strong>准备材料</strong></h2>
+<ol>
+<li>一台Win7及以上的Windows操作系统</li>
+</ol>
+<br/><p>访问 <a href="https://fuyunxinyu.github.io/posts/article/Files of ClaasIsland" target="_blank">https://fuyunxinyu.github.io/posts/article/Files of ClaasIsland</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>浮芸星语空悠悠</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-01-25T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[春]]></title>
+        <id>https://fuyunxinyu.github.io/posts/poem/Spring</id>
+        <link href="https://fuyunxinyu.github.io/posts/poem/Spring"/>
+        <updated>2025-01-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>纤小的枝条</p>
+<p>被风轻轻抚起</p>
+<p>空中游离的白絮</p>
+<p>对上一场清雪</p>
+<p>也似乎仍未忘记</p>
+<p>青鸟衔来几枝嫩叶</p>
+<p>碧蓝的静谧</p>
+<p>对着纷杂的低空涮洗</p>
+<p>偶尔空中捎来</p>
+<p>几瓣轻轻的彩衣</p>
+<p>在里面承载着</p>
+<p>对一整个春天</p>
+<br/><p>访问 <a href="https://fuyunxinyu.github.io/posts/poem/Spring" target="_blank">https://fuyunxinyu.github.io/posts/poem/Spring</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>浮芸星语空悠悠</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-01-18T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[星钟]]></title>
+        <id>https://fuyunxinyu.github.io/posts/poem/Batter/Starlight flowing pointer</id>
+        <link href="https://fuyunxinyu.github.io/posts/poem/Batter/Starlight flowing pointer"/>
+        <updated>2024-12-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>以深遂为背景</p>
+<p>以繁星为指针</p>
+<p>以寰字为中心</p>
+<p>以流年为齿轮</p>
+<hr>
+<p>有繁硕的倾盆</p>
+<p>也有燃烬</p>
+<p>所滑过的余温</p>
+<hr>
+<p>是月明时的陌生人</p>
+<p>也是昏暝时的引路人</p>
+<p>是随处隐逸的无声</p>
+<p>却也是</p>
+<br/><p>访问 <a href="https://fuyunxinyu.github.io/posts/poem/Batter/Starlight flowing pointer" target="_blank">https://fuyunxinyu.github.io/posts/poem/Batter/Starlight flowing pointer</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>浮芸星语空悠悠</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-12-27T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[秋风与星星]]></title>
+        <id>https://fuyunxinyu.github.io/posts/poem/Foiling and wishing</id>
+        <link href="https://fuyunxinyu.github.io/posts/poem/Foiling and wishing"/>
+        <updated>2024-12-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>星光在昼夜中更替</p>
+<p>霓霞在交光中掀起</p>
+<p>我们却</p>
+<p>总是在落叶后追忆</p>
+<p>面对着黄花满地</p>
+<p>不住地叹息</p>
+<hr>
+<p>叹息又有什么用呢？</p>
+<p>或许</p>
+<p>他都不能保留</p>
+<p>你来过的痕迹</p>
+<p>却会在你心中</p>
+<p>留下重重</p>
+<br/><p>访问 <a href="https://fuyunxinyu.github.io/posts/poem/Foiling and wishing" target="_blank">https://fuyunxinyu.github.io/posts/poem/Foiling and wishing</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>浮芸星语空悠悠</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-12-12T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[记]]></title>
+        <id>https://fuyunxinyu.github.io/posts/poem/Remembering</id>
+        <link href="https://fuyunxinyu.github.io/posts/poem/Remembering"/>
+        <updated>2024-11-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>不知从何时起</p>
+<p>记忆便在脑海中</p>
+<p>不断清洗</p>
+<p>洗去了一天又一天</p>
+<p>一季  又一季</p>
+<p>究竟洗去了什么</p>
+<p>也不知从何问起</p>
+<hr>
+<p>定义的清晰</p>
+<p>也只是暂存的余迹</p>
+<p>残存的心系</p>
+<p>也不过未经的此彼</p>
+<br/><p>访问 <a href="https://fuyunxinyu.github.io/posts/poem/Remembering" target="_blank">https://fuyunxinyu.github.io/posts/poem/Remembering</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>浮芸星语空悠悠</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-11-11T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[云睹]]></title>
+        <id>https://fuyunxinyu.github.io/posts/poem/Alone the clouds</id>
+        <link href="https://fuyunxinyu.github.io/posts/poem/Alone the clouds"/>
+        <updated>2024-10-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>夜  落幕</p>
+<p>云  迁逐</p>
+<hr>
+<p>一片若有若无的</p>
+<p>色晕</p>
+<p>伴着流云</p>
+<p>寻逐</p>
+<hr>
+<p>薄薄云雾</p>
+<p>流露  不复</p>
+<p>漫漫时途</p>
+<p>不住  踌躇</p>
+<hr>
+<p>或许</p>
+<p>碰上个云团</p>
+<p>也是个未知数</p>
+<br/><p>访问 <a href="https://fuyunxinyu.github.io/posts/poem/Alone the clouds" target="_blank">https://fuyunxinyu.github.io/posts/poem/Alone the clouds</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>浮芸星语空悠悠</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-10-19T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[云]]></title>
+        <id>https://fuyunxinyu.github.io/posts/poem/Lovely clouds</id>
+        <link href="https://fuyunxinyu.github.io/posts/poem/Lovely clouds"/>
+        <updated>2024-10-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>淡淡的颜色</p>
+<p>悠悠地流着</p>
+<p>天河</p>
+<hr>
+<p>千变的莫测</p>
+<p>慢慢地变着</p>
+<p>风车</p>
+<p>微微轻风</p>
+<p>朗朗晴空</p>
+<p>都在飘泊着</p>
+<p>过客</p>
+<hr>
+<p>绿叶摇曳着</p>
+<p>落下</p>
+<p>粉荷</p>
+<p>在风中飞舞着</p>
+<hr>
+<p>只是在</p>
+<br/><p>访问 <a href="https://fuyunxinyu.github.io/posts/poem/Lovely clouds" target="_blank">https://fuyunxinyu.github.io/posts/poem/Lovely clouds</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>浮芸星语空悠悠</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-10-12T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小村]]></title>
+        <id>https://fuyunxinyu.github.io/posts/poem/Leisurely village</id>
+        <link href="https://fuyunxinyu.github.io/posts/poem/Leisurely village"/>
+        <updated>2024-09-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>小小的山村</p>
+<p>坐在重叠的山郭</p>
+<p>清清的流水</p>
+<p>躺在错杂的村落</p>
+<p>疲阳沉落</p>
+<hr>
+<p>淡淡的云朵</p>
+<p>飘过几家淡淡的烟火</p>
+<p>淡淡的归途</p>
+<p>传过几声淡淡的牛哞</p>
+<br/><p>访问 <a href="https://fuyunxinyu.github.io/posts/poem/Leisurely village" target="_blank">https://fuyunxinyu.github.io/posts/poem/Leisurely village</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>浮芸星语空悠悠</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-09-19T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[故乡]]></title>
+        <id>https://fuyunxinyu.github.io/posts/poem/Home town</id>
+        <link href="https://fuyunxinyu.github.io/posts/poem/Home town"/>
+        <updated>2024-09-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>故乡  在哪里</p>
+<p>故乡有碧绿的长廊</p>
+<p>翠竹挺挺</p>
+<p>古松苍苍</p>
+<hr>
+<p>故乡会清脆地歌唱</p>
+<p>泉声潺潺</p>
+<p>暮鼓悠长</p>
+<hr>
+<p>故乡是一颗种子</p>
+<p>故乡有泥土的芬芳</p>
+<br/><p>访问 <a href="https://fuyunxinyu.github.io/posts/poem/Home town" target="_blank">https://fuyunxinyu.github.io/posts/poem/Home town</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>浮芸星语空悠悠</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-09-03T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[停留的地方]]></title>
+        <id>https://fuyunxinyu.github.io/posts/poem/Places of love staying</id>
+        <link href="https://fuyunxinyu.github.io/posts/poem/Places of love staying"/>
+        <updated>2024-08-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>树叶沙沙响</p>
+<p>那是风走过的地方</p>
+<p>蝴蝶翩翩翔</p>
+<p>那是花开遍的地方</p>
+<hr>
+<p>世界很大很大</p>
+<p>大到看不到头</p>
+<p>山高水长</p>
+<p>世界很小很小</p>
+<p>小到不过几人</p>
+<p>便无物可装</p>
+<hr>
+<p>炊烟静静长</p>
+<br/><p>访问 <a href="https://fuyunxinyu.github.io/posts/poem/Places of love staying" target="_blank">https://fuyunxinyu.github.io/posts/poem/Places of love staying</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>浮芸星语空悠悠</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-08-21T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[避风港的灯火]]></title>
+        <id>https://fuyunxinyu.github.io/posts/poem/Mother`s love always</id>
+        <link href="https://fuyunxinyu.github.io/posts/poem/Mother`s love always"/>
+        <updated>2024-08-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>家是温暖的避风港</p>
+<p>里面的灯火</p>
+<p>从不打烊</p>
+<hr>
+<p>在里面的</p>
+<p>有亲爱的母亲啊</p>
+<p>母亲的心</p>
+<p>像天一样宽广</p>
+<p>广到</p>
+<p>我们飞也飞不出</p>
+<p>看也看不到尽头</p>
+<p>母亲的事</p>
+<p>像针线一样细长</p>
+<p>长到</p>
+<p>像</p>
+<br/><p>访问 <a href="https://fuyunxinyu.github.io/posts/poem/Mother`s love always" target="_blank">https://fuyunxinyu.github.io/posts/poem/Mother`s love always</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>浮芸星语空悠悠</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-08-14T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[水塘]]></title>
+        <id>https://fuyunxinyu.github.io/posts/poem/Pond</id>
+        <link href="https://fuyunxinyu.github.io/posts/poem/Pond"/>
+        <updated>2024-08-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>家是一处山间的小水塘</p>
+<p>温馨  没有风浪</p>
+<p>我们是里面的鱼儿</p>
+<p>微小  在里面徜徉</p>
+<hr>
+<p>大一点了</p>
+<p>水塘就显得小了</p>
+<p>鱼儿纷纷跳进大江</p>
+<p>闻到了牡丹花的芬芳</p>
+<p>听到了画眉鸟的歌唱</p>
+<hr>
+<br/><p>访问 <a href="https://fuyunxinyu.github.io/posts/poem/Pond" target="_blank">https://fuyunxinyu.github.io/posts/poem/Pond</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>浮芸星语空悠悠</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-08-11T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不再]]></title>
+        <id>https://fuyunxinyu.github.io/posts/poem/Not that time</id>
+        <link href="https://fuyunxinyu.github.io/posts/poem/Not that time"/>
+        <updated>2024-06-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>当我们不再  热爱</p>
+<p>生活</p>
+<p>便显得无力苍白</p>
+<p>风景也不再精彩</p>
+<hr>
+<p>当我们不再  释怀</p>
+<p>就不会想起</p>
+<p>往事不再</p>
+<p>过去</p>
+<p>已无法更改</p>
+<hr>
+<p>当你不在</p>
+<p>我便不知</p>
+<p>这里是该来</p>
+<p>还是</p>
+<br/><p>访问 <a href="https://fuyunxinyu.github.io/posts/poem/Not that time" target="_blank">https://fuyunxinyu.github.io/posts/poem/Not that time</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>浮芸星语空悠悠</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-06-23T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[丢]]></title>
+        <id>https://fuyunxinyu.github.io/posts/poem/Lost</id>
+        <link href="https://fuyunxinyu.github.io/posts/poem/Lost"/>
+        <updated>2024-06-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>不是所有的东西</p>
+<p>失去了  还会拥有</p>
+<p>就像青春</p>
+<p>走过了  就只能回首</p>
+<hr>
+<p>并不是所有的路</p>
+<p>走过了  还能回头</p>
+<p>就像江河</p>
+<p>游过了  就不再回流</p>
+<hr>
+<p>为什么</p>
+<p>我们总是这样</p>
+<br/><p>访问 <a href="https://fuyunxinyu.github.io/posts/poem/Lost" target="_blank">https://fuyunxinyu.github.io/posts/poem/Lost</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>浮芸星语空悠悠</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-06-15T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小径和蒲公英]]></title>
+        <id>https://fuyunxinyu.github.io/posts/poem/Batter/Memories and thought</id>
+        <link href="https://fuyunxinyu.github.io/posts/poem/Batter/Memories and thought"/>
+        <updated>2024-06-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>天边浮云轻轻</p>
+<p>小径气息清新</p>
+<p>沉睡的小径</p>
+<p>又开遍了蒲公英</p>
+<hr>
+<p>你说过</p>
+<p>当这条小径</p>
+<p>开满蒲公英</p>
+<p>除了风景</p>
+<p>还会有你</p>
+<hr>
+<p>路好静好静</p>
+<p>静静带走了心灵</p>
+<p>风好轻好轻</p>
+<p>轻轻托</p>
+<br/><p>访问 <a href="https://fuyunxinyu.github.io/posts/poem/Batter/Memories and thought" target="_blank">https://fuyunxinyu.github.io/posts/poem/Batter/Memories and thought</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>浮芸星语空悠悠</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-06-07T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[云彩流逝]]></title>
+        <id>https://fuyunxinyu.github.io/posts/poem/Fading clouds</id>
+        <link href="https://fuyunxinyu.github.io/posts/poem/Fading clouds"/>
+        <updated>2024-05-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>校园的花</p>
+<p>又亭亭挂上了树枝</p>
+<p>转眼间</p>
+<p>三年也将流逝</p>
+<p>手握的一支一支</p>
+<p>笔下的一纸一纸</p>
+<p>也试图</p>
+<p>将流逝延迟</p>
+<hr>
+<p>可我只见</p>
+<p>记忆被时间打碎</p>
+<p>被流水侵蚀</p>
+<p>只剩碎片为止</p>
+<p>我想奋力捡</p>
+<br/><p>访问 <a href="https://fuyunxinyu.github.io/posts/poem/Fading clouds" target="_blank">https://fuyunxinyu.github.io/posts/poem/Fading clouds</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>浮芸星语空悠悠</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-05-29T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[等]]></title>
+        <id>https://fuyunxinyu.github.io/posts/poem/waiting</id>
+        <link href="https://fuyunxinyu.github.io/posts/poem/waiting"/>
+        <updated>2024-05-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>微雨轻轻</p>
+<p>窗外白羽稀稀</p>
+<p>路旁的树儿</p>
+<p>轻轻接住了这希望</p>
+<p>一滴又一滴</p>
+<hr>
+<p>薄云依依</p>
+<p>天上白纸清清</p>
+<p>窗内的蒲公英</p>
+<p>等待着这风儿</p>
+<p>一季  又一季</p>
+<br/><p>访问 <a href="https://fuyunxinyu.github.io/posts/poem/waiting" target="_blank">https://fuyunxinyu.github.io/posts/poem/waiting</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>浮芸星语空悠悠</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-05-19T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[回忆]]></title>
+        <id>https://fuyunxinyu.github.io/posts/poem/Memory</id>
+        <link href="https://fuyunxinyu.github.io/posts/poem/Memory"/>
+        <updated>2024-05-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>回忆像风</p>
+<p>吹过来</p>
+<p>吹过去</p>
+<p>吹动了我的心绪</p>
+<p>却吹不动我</p>
+<p>回忆像水</p>
+<p>流过来</p>
+<p>流过去</p>
+<p>流在我的心间</p>
+<p>我却抓也抓不住</p>
+<br/><p>访问 <a href="https://fuyunxinyu.github.io/posts/poem/Memory" target="_blank">https://fuyunxinyu.github.io/posts/poem/Memory</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>浮芸星语空悠悠</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-05-06T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[星星]]></title>
+        <id>https://fuyunxinyu.github.io/posts/poem/star</id>
+        <link href="https://fuyunxinyu.github.io/posts/poem/star"/>
+        <updated>2024-04-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>把星星挂在天上</p>
+<p>让迷路的人</p>
+<p>能够找回方向</p>
+<p>把星星贴在墙上</p>
+<p>让可爱的孩子</p>
+<p>安然进入梦乡</p>
+<p>把星星放在心上</p>
+<p>让远行的游子</p>
+<p>总是心存希望</p>
+<p>你像星星一样</p>
+<p>散发着星光</p>
+<br/><p>访问 <a href="https://fuyunxinyu.github.io/posts/poem/star" target="_blank">https://fuyunxinyu.github.io/posts/poem/star</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>浮芸星语空悠悠</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-04-17T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么]]></title>
+        <id>https://fuyunxinyu.github.io/posts/poem/Why</id>
+        <link href="https://fuyunxinyu.github.io/posts/poem/Why"/>
+        <updated>2024-04-08T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>你问我为什么</p>
+<p>喜欢星星和月亮</p>
+<p>我想</p>
+<p>深不可测的黑夜里</p>
+<p>它们无疑最闪亮</p>
+<p>会为我指明方向</p>
+<p>你问我为什么</p>
+<p>喜欢浮云和蓝天</p>
+<p>你不见</p>
+<p>一望无际的坦荡里</p>
+<p>它们高过了地平线</p>
+<p>高和远从不受限</p>
+<br/><p>访问 <a href="https://fuyunxinyu.github.io/posts/poem/Why" target="_blank">https://fuyunxinyu.github.io/posts/poem/Why</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>浮芸星语空悠悠</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-04-08T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[远方]]></title>
+        <id>https://fuyunxinyu.github.io/posts/poem/Distance</id>
+        <link href="https://fuyunxinyu.github.io/posts/poem/Distance"/>
+        <updated>2024-04-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>在一片微朦中</p>
+<p>向东</p>
+<p>水光潋滟</p>
+<p>往事随风</p>
+<p>在一阵清爽里</p>
+<p>回忆</p>
+<p>轻言静谧</p>
+<p>虹光四溢</p>
+<p>在清晨看雨</p>
+<p>在夏夜看星</p>
+<p>我在远方</p>
+<p>等待着 曾经的你</p>
+<br/><p>访问 <a href="https://fuyunxinyu.github.io/posts/poem/Distance" target="_blank">https://fuyunxinyu.github.io/posts/poem/Distance</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>浮芸星语空悠悠</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-04-03T00:00:00.000Z</published>
+    </entry>
+</feed>
